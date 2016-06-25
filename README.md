@@ -2,6 +2,7 @@
 fql test file
 
 ok, that just used for merge branch.
-changed in my pc
 
 add tag V1.2
+
+OK, GOOD in order_contract_update
